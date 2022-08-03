@@ -1,4 +1,4 @@
-pesos = input("¿Cuántos pesos mexicanos tienes?: ")
+pesos = input("Bienvendio al conversor de monedas. ¿Cuántos pesos mexicanos tienes?: ")
 pesos = float(pesos)
 valor_dolar = 20.45
 dolares = pesos/valor_dolar
