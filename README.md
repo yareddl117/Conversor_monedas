@@ -1,2 +1,2 @@
-# Conversor_monedas
-Código en Python para convertir pesos mexicanos a dolares 
+# Python_basico
+Programas utilizando comandos básicos de Python 😘
